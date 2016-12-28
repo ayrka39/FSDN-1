@@ -1,7 +1,7 @@
 My Favorite Movie Trailers
 --------------------------
 
-This mini webpage is one of the projects assigned for Full Stack Web Developer Nanodegree at Udacity. 
+This mini webpage is one of the projects assigned for the Full Stack Web Developer Nanodegree at Udacity. 
 
 
 ### Notice
