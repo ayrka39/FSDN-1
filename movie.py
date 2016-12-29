@@ -1,7 +1,8 @@
 import webbrowser
 
-# define the Movie class
+
 class Movie():
+    """define the Movie class"""
     def __init__(self, movie_title, movie_stroyline, poster_image, trailer_youtube):
         self.title = movie_title
         self.storyline = movie_stroyline
